@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/txt_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="0dp"
+    android:background="#CF6158"
+    android:padding="15dp"
+    android:text="Aqui estoy"
+    android:textSize="20sp" />

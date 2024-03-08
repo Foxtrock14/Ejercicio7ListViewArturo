@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio7</string>
+    <string name="titulo_ventana">Lugares</string>
+    <string name="subtitulo_abajo">Lugar seleccionado</string>
+</resources>
